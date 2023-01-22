@@ -1,7 +1,7 @@
 # My Top Movies
 <p>Used Technologies:</p>
 <p>&nbsp;- FrontEnd: HTML / CSS / Bootstrap</p>
-<p>&nbsp;- Backend: Python -> Flask / Jinja / SQL</p>
+<p>&nbsp;- Backend: Python -> Flask / Jinja / SQL / APIs</p>
 <p><a href="http://chincharito.pythonanywhere.com/">Check Web Application Online</a></p>
 <p><a href="https://www.youtube.com/watch?v=yoCG2AbngIU">Watch video on My Channel</a></p>
 
